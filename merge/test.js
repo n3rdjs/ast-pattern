@@ -1,4 +1,4 @@
-const input = require('./output');
+const input = require('./input');
 
 if (check(input)) {
     console.log('detected');
